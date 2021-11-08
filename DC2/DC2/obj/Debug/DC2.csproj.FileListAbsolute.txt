@@ -1,0 +1,7 @@
+C:\Users\Nikita\source\repos\DC2\DC2\bin\Debug\DC2.exe.config
+C:\Users\Nikita\source\repos\DC2\DC2\bin\Debug\DC2.exe
+C:\Users\Nikita\source\repos\DC2\DC2\bin\Debug\DC2.pdb
+C:\Users\Nikita\source\repos\DC2\DC2\obj\Debug\DC2.csprojAssemblyReference.cache
+C:\Users\Nikita\source\repos\DC2\DC2\obj\Debug\DC2.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\DC2\DC2\obj\Debug\DC2.exe
+C:\Users\Nikita\source\repos\DC2\DC2\obj\Debug\DC2.pdb
